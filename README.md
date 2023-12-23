@@ -11,4 +11,6 @@ about_me = {
         "editors": ["VSCode"]
     },
 }
+
+print(about_me)
 ```
