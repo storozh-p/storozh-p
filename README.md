@@ -8,7 +8,7 @@ about_me = {
         "web": ["FastAPI"],
         "databases": ["MongoDB"],
         "operatingSystems": ["GNU/Linux", "Windows"],
-        "editors": ["VSCode"]
+        "editors": ["VSCode", "PyCharm"]
     },
 }
 
